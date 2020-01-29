@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.greenxiii.dailycupping;
 
 import android.support.multidex.MultiDexApplication;
 
